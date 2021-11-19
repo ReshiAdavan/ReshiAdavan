@@ -1,6 +1,6 @@
 # Hi, I'm Reshi 👋
 
-I am an Electrical Engineering student at the University of Waterloo, with a particular interest in full stack engineering and cloud architecture.
+I am an Electrical Engineering student at the University of Waterloo, with a particular interest in Full Stack engineering, Cloud Architecture and DevOps.
 
 ## Skills 🔭
 
@@ -13,8 +13,8 @@ I am an Electrical Engineering student at the University of Waterloo, with a par
 
 ## Contact Me 📫
 
-[![Email]](mailto:rtadavan@uwaterloo.ca)
-[![Linkedin]](https://www.linkedin.com/in/reshiadavan/)
+[Email](mailto:rtadavan@uwaterloo.ca)
+[Linkedin](https://www.linkedin.com/in/reshiadavan/)
 
 <!--
 **ReshiAdavan/ReshiAdavan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

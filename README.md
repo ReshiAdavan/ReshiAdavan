@@ -1,4 +1,20 @@
-### Hi there 👋
+# Hi, I'm Reshi 👋
+
+I am an Electrical Engineering student at the University of Waterloo, with a particular interest in full stack engineering and cloud architecture.
+
+## Skills 🔭
+
+- Languages: C#, C++, JavaScript/TypeScript, Python, SQL, HTML, CSS
+- Frameworks/Libraries: ASP.NET, PCFs, Express, React, Node, PyQt5, NumPy, Matplotlib
+- Cloud/DevOps: Azure, Data Factory, Monitor
+- Tools: Power Apps, Dynamics 365, SSMS, SQLite, MongoDB, QT Designer, Bash, Git, Postman, Confluence, Jira, Bitbucket
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReshiAdavan&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## Contact Me 📫
+
+[![Email]](mailto:rtadavan@uwaterloo.ca)
+[![Linkedin]](https://www.linkedin.com/in/reshiadavan/)
 
 <!--
 **ReshiAdavan/ReshiAdavan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

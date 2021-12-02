@@ -1,10 +1,10 @@
 # Hi, I'm Reshi 👋
 
-I am an Electrical Engineering student at the University of Waterloo, with a particular interest in Full Stack engineering, Cloud Architecture, and DevOps.
+I am an Electrical Engineering student at the University of Waterloo, with a particular interest in Full Stack engineering, Machine Learning, Cloud Architecture, and DevOps.
 
 ## Skills 🔭
 
-- Languages: C#, C++, JavaScript/TypeScript, Python, SQL, HTML, CSS
+- Languages: C#, C++, JavaScript/TypeScript, Python, PowerShell, SQL, HTML, CSS
 - Frameworks/Libraries: ASP.NET, PCFs, Express, React, Node, PyQt5, NumPy, Matplotlib
 - Cloud/DevOps: Azure, Data Factory, Monitor
 - Tools: Power Apps, Dynamics 365, SSMS, SQLite, MongoDB, QT Designer, Bash, Git, Postman, Confluence, Jira, Bitbucket

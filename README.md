@@ -5,9 +5,9 @@ I am an Electrical Engineering student at the University of Waterloo, with a par
 ## Skills 🔭
 
 - Languages: JavaScript/TypeScript, SQL, Python, C++, C#, HTML, CSS
-- Frameworks/Libraries: Express, React, Node, ASP.NET, PyQt5, NumPy, Matplotlib
-- Cloud/DevOps: Microsoft Azure Data Factory (ADF), Azure Monitor, Azure SQL Databases (DBs), Azure SQL Servers
-- Tools/Platforms: SQL Server Management Studio (SSMS), MongoDB, QT Designer, Bash, Git, Postman, Jira, Bitbucket, SQLite, Microsoft Power Apps/Dynamics 365 (D365)
+- Frameworks/Libraries: Express, React, Node.js, ASP.NET, PyQt5, NumPy, Matplotlib
+- Cloud/DevOps: Microsoft Azure Data Factory (ADF), Azure Monitor, Azure SQL Databases and Servers
+- Tools/Technologies: SQL Server Management Studio (SSMS), Jira, Bash, Git, Postman, Microsoft Power Apps/Dynamics 365 (D365), MongoDB, QT Designer, SQLite
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReshiAdavan&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 

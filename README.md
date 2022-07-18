@@ -9,7 +9,7 @@ I am a Computer Engineering student at the University of Waterloo, with a partic
 - Cloud/DevOps: Azure, AWS, Docker, Kubernetes
 - Tools/Technologies: SSMS, MongoDB, Jira, Git, Postman, RabbitMQ, gRPC, Elastic Stack, Apache Kafka, TensorFlow, SQLite
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReshiAdavan&layout=compact&theme=react&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReshiAdavan&layout=compact&theme=monokai&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact Me 📫
 

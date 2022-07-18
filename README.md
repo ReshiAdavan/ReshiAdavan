@@ -1,15 +1,15 @@
 # Hi, I'm Reshi 👋
 
-I am an Electrical Engineering student at the University of Waterloo, with a particular interest in Full Stack engineering, Machine Learning, Cloud Architecture, and DevOps.
+I am a Computer Engineering student at the University of Waterloo, with a particular interest in Full Stack engineering, Machine Learning, Distrubuted Systems, Cloud Architecture, and DevOps.
 
 ## Skills 🔭
 
-- Languages: JavaScript/TypeScript, SQL, Python, C++, C#, HTML, CSS
-- Frameworks/Libraries: Express, React, Node.js, ASP.NET, PyQt5, NumPy, Matplotlib
-- Cloud/DevOps: Microsoft Azure Data Factory (ADF), Azure Monitor, Azure SQL Databases and Servers
-- Tools/Technologies: SQL Server Management Studio (SSMS), Jira, Bash, Git, Postman, Microsoft Power Apps/Dynamics 365 (D365), MongoDB, QT Designer, SQLite
+- Languages: C++, C#, JavaScript/TypeScript, Java, Python, SQL, HTML, CSS
+- Frameworks/Libraries: Express, React, Node, ASP.NET, Spring Boot, Flask, Bootstrap, PyTorch, NumPy
+- Cloud/DevOps: Azure, AWS, Docker, Kubernetes
+- Tools/Technologies: SSMS, MongoDB, Jira, Git, Postman, RabbitMQ, gRPC, Elastic Stack, Apache Kafka, TensorFlow, SQLite
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReshiAdavan&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReshiAdavan&layout=compact&theme=dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact Me 📫
 

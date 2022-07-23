@@ -4,8 +4,8 @@ I am a Computer Engineering student at the University of Waterloo, with a partic
 
 ## Skills 🔭
 
-- Languages: C++, C#, JavaScript/TypeScript, Java, Python, SQL, HTML, CSS
-- Frameworks/Libraries: Express, React, Node, ASP.NET, Spring Boot, Flask, Bootstrap, PyTorch, NumPy
+- Languages: C++, C#, JavaScript/TypeScript, Python, Go, SQL, HTML, CSS
+- Frameworks/Libraries: Express, React, Node, ASP.NET, Flask, Bootstrap, PyTorch, NumPy
 - Cloud/DevOps: Azure, AWS, Docker, Kubernetes
 - Tools/Technologies: SSMS, MongoDB, Jira, Git, Postman, RabbitMQ, gRPC, Elastic Stack, Apache Kafka, TensorFlow, SQLite
 

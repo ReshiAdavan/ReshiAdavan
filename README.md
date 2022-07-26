@@ -4,10 +4,10 @@ I am a Computer Engineering student at the University of Waterloo, with a partic
 
 ## Skills 🔭
 
-- Languages: C++, C#, JavaScript/TypeScript, Python, Go, SQL, HTML, CSS
-- Frameworks/Libraries: Express, React, Node, ASP.NET, Flask, Bootstrap, PyTorch, NumPy
-- Cloud/DevOps: Azure, AWS, Docker, Kubernetes
-- Tools/Technologies: SSMS, MongoDB, Jira, Git, Postman, RabbitMQ, gRPC, Elastic Stack, Apache Kafka, TensorFlow, SQLite
+- **_Languages_**: C++, C#, JavaScript/TypeScript, Python, Go, SQL, HTML, CSS
+- **_Frameworks/Libraries_**: Express, React, Node, ASP.NET, Flask, Bootstrap, PyTorch, NumPy
+- **_Cloud/DevOps_**: Azure, AWS, Docker, Kubernetes
+- **_Tools/Technologies_**: SSMS, MongoDB, Jira, Git, Postman, RabbitMQ, gRPC, Elastic Stack, Apache Kafka, TensorFlow, SQLite
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReshiAdavan&layout=compact&theme=discord_old_blurple&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 

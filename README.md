@@ -16,11 +16,11 @@ I am a Computer Engineering student at the University of Waterloo, with a partic
 <!--
 Email: [rtadavan@uwaterloo.ca](mailto:rtadavan@uwaterloo.ca)
 LinkedIn: [linkedin.com/in/reshiadavan](https://www.linkedin.com/in/reshiadavan/)
---> 
+-->
 
 [![Email](https://img.shields.io/badge/rtadavan@uwaterloo.ca-0078D4?logo=microsoft-outlook&logoColor=white)](mailto:rtadavan@uwaterloo.ca)
-[![Gmail](https://img.shields.io/badge/reshiadavan27@gmail.com-c14438?&logo=Gmail&logoColor=white)](mailto:saenthan.p@gmail.com)
-[![Linkedin](https://img.shields.io/badge/-Reshi_Adavan-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/reshiadavan/) 
+[![Gmail](https://img.shields.io/badge/reshiadavan27@gmail.com-c14438?&logo=Gmail&logoColor=white)](mailto:reshiadavan27@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-Reshi_Adavan-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/reshiadavan/)
 
 <!--
 **ReshiAdavan/ReshiAdavan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

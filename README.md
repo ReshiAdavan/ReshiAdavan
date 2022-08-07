@@ -2,7 +2,7 @@
 
 I am a Computer Engineering student at the University of Waterloo, with a particular interest in Full Stack engineering, Machine Learning, Distrubuted Systems, Cloud Architecture, and DevOps.
 
-## Tech Stack🔭
+## Tech Stack 🔭
 
 <!--
 - **_Languages_**: Python, C#, JavaScript/TypeScript, C/C++, SQL, HTML, CSS

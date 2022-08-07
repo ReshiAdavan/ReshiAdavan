@@ -38,7 +38,7 @@ I am a Computer Engineering student at the University of Waterloo, with a partic
 
 ![Azure](https://img.shields.io/badge/Azure-0078D7?style=flat&logo=azure-devops&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=flat&logo=kubernetes&logoColor=white)
 
 <!-- Tools -->

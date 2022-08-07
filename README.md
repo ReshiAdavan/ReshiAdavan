@@ -54,7 +54,8 @@ I am a Computer Engineering student at the University of Waterloo, with a partic
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReshiAdavan&layout=compact&theme=apprentice&langs_count=10&custom_title=Reshi%27s%20Languages&hide=C,Pascal)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReshiAdavan&layout=compact&theme=apprentice&langs_count=10&custom_title=Reshi%27s%20Languages&hide=C,Pascal&card_width=350)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="365" height="190" />
 
 ## Contact Me 📫
 

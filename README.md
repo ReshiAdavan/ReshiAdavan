@@ -35,25 +35,27 @@
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 
-<!-- Cloud/DevOps -->
-
-![Azure](https://img.shields.io/badge/Azure-0078D7?style=flat&logo=azure-devops&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=flat&logo=kubernetes&logoColor=white)
+<!-- Cloud/DevOps (Removed this section from resume; moved all techs here to Tools section) -->
 
 <!-- Tools -->
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D7?style=flat&logo=azure-devops&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=flat&logo=kubernetes&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?&style=flat&logo=rabbitmq&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![Elastic Stack](https://img.shields.io/badge/Elastic_Stack-005571?style=flat&logo=elasticsearch&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white)
+
+<!-- Extras (Will be added soon hopefully)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
+-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReshiAdavan&layout=compact&theme=apprentice&langs_count=10&custom_title=Reshi%27s%20Languages&hide=C,Pascal&card_width=380)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="410" height="190" />

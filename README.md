@@ -15,6 +15,7 @@
 <!-- Langs -->
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
@@ -67,9 +68,18 @@ Email: [rtadavan@uwaterloo.ca](mailto:rtadavan@uwaterloo.ca)
 LinkedIn: [linkedin.com/in/reshiadavan](https://www.linkedin.com/in/reshiadavan/)
 -->
 
+<!--
 [![Email](https://img.shields.io/badge/rtadavan@uwaterloo.ca-0078D4?logo=microsoft-outlook&logoColor=white)](mailto:rtadavan@uwaterloo.ca)
 [![Gmail](https://img.shields.io/badge/reshiadavan27@gmail.com-c14438?&logo=Gmail&logoColor=white)](mailto:reshiadavan27@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-Reshi_Adavan-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/reshiadavan/)
+-->
+
+[![Linkedin](https://img.shields.io/badge/Reshi_Adavan-blue?logo=Linkedin&style=flat&logoColor=white)](https://www.linkedin.com/in/reshiadavan/)
+[![Email](https://img.shields.io/badge/rtadavan@uwaterloo.ca-2B2E3A?&style=flat&logo=protonmail&logoColor=white)](mailto:rtadavan@uwaterloo.ca)
+[![Gmail](https://img.shields.io/badge/reshiadavan27@gmail.com-c14438?&logo=Gmail&style=flat&logoColor=white)](mailto:reshiadavan27@gmail.com)
+
+<!--[![Website](https://img.shields.io/badge/reshiadavan.ca-F37623?style=flat)]()-->
+<!--[![Resume](https://img.shields.io/badge/My_Resume-217346?style=flat)]()-->
 
 <!--
 **ReshiAdavan/ReshiAdavan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

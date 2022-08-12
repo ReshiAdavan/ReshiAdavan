@@ -14,8 +14,8 @@
 
 <!-- Langs -->
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-2F3134?style=flat&logo=python&logoColor=blue)
+![C#](https://img.shields.io/badge/C%23-003545?style=flat&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
@@ -31,7 +31,7 @@
 ![Node](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=OpenCV&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-181818?style=flat&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
@@ -42,7 +42,7 @@
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![Azure](https://img.shields.io/badge/Azure-0078D7?style=flat&logo=azure-devops&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-27273D?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=flat&logo=kubernetes&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?&style=flat&logo=rabbitmq&logoColor=white)

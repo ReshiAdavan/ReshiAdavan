@@ -1,7 +1,7 @@
 <!-- # Hi, I'm Reshi 👋 -->
 <img src="https://github.com/ReshiAdavan/ReshiAdavan/blob/master/imgs/ReshiBanner.PNG" width="1000" height="275"/>
 
-**I am a Computer Engineering student at the University of Waterloo, with a particular interest in Full Stack, Machine Learning, Distrubuted Systems, Cloud Architecture, and DevOps.**
+**A Computer Engineering student at the University of Waterloo, with a particular interest in Full Stack Development, Machine Learning, amd Distrubuted Systems.**
 
 ## Tech Stack 🔭
 

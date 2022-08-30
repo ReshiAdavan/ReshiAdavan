@@ -6,7 +6,7 @@
 
 - Computer Engineering Student @UWaterloo (Class of 2025)
 - Previously @ Metro Supply Chain, Loblaw Companies Limited, Home Trust Company in SWE
-- Interests in Full Stack Development, Machine Learning, and Distrubuted Systems.
+- Interests in Full Stack Development, Machine Learning, and Distrubuted Systems
 - Seeking Winter 2023 internships
 
 ## Tech Stack 🔭

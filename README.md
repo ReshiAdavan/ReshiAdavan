@@ -1,19 +1,21 @@
-<!-- # Hi, I'm Reshi 👋 -->
-<img src="https://github.com/ReshiAdavan/ReshiAdavan/blob/master/imgs/ReshiBanner.PNG" width="1000" height="275"/>
+# Hi, I'm Reshi 👋
 
-**A Computer Engineering student at the University of Waterloo, with a particular interest in Full Stack Development, Machine Learning, amd Distrubuted Systems.**
+<!-- <img src="https://github.com/ReshiAdavan/ReshiAdavan/blob/master/imgs/ReshiBanner.PNG" width="1000" height="275"/> -->
+
+<!-- **A Computer Engineering student at the University of Waterloo, with a particular interest in Full Stack Development, Machine Learning, amd Distrubuted Systems.** -->
+
+- Computer Engineering Student @UWaterloo (Class of 2025)
+- Previously @ Metro Supply Chain, Loblaw Companies Limited, Home Trust Company in SWE
+- Interests in Full Stack Development, Machine Learning, and Distrubuted Systems.
+- Seeking Winter 2023 internships
 
 ## Tech Stack 🔭
 
-<!--
 - **_Languages_**: Python, C#, JavaScript/TypeScript, C/C++, SQL, HTML, CSS
-- **_Frameworks/Libraries_**: ASP.NET, Express, React, Node, Flask, OpenCV, TensorFlow, PyTorch, NumPy, Bootstrap
-- **_Cloud/DevOps_**: Azure, AWS, Docker, Kubernetes
-- **_Tools/Technologies_**: Git, SSMS, MongoDB, Nginx, RabbitMQ, gRPC, Elastic Stack, Apache Kafka, SQLite, Postman, Jira
--->
+- **_Frameworks/Libraries_**: ASP.NET, Express, React, Node, Flask, SFML, OpenCV, TensorFlow, PyTorch, NumPy, Bootstrap
+- **_Tools/Technologies_**: Git, Azure, Docker, Kubernetes, Nginx, RabbitMQ, gRPC, Apache Kafka, Elastic Stack, SSMS, MongoDB, SQLite, Jira
 
-<!-- Langs -->
-
+<!-- Langs
 ![Python](https://img.shields.io/badge/Python-2F3134?style=flat&logo=python&logoColor=blue)
 ![C#](https://img.shields.io/badge/C%23-003545?style=flat&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
@@ -21,10 +23,9 @@
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) -->
 
-<!-- Frameworks/Libraries -->
-
+<!-- Frameworks/Libraries
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
@@ -34,12 +35,9 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-181818?style=flat&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) -->
 
-<!-- Cloud/DevOps (Removed this section from resume; moved all techs here to Tools section) -->
-
-<!-- Tools -->
-
+<!-- Tools
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![Azure](https://img.shields.io/badge/Azure-0078D7?style=flat&logo=azure-devops&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-27273D?style=flat&logo=docker&logoColor=white)
@@ -50,13 +48,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white)
-
-<!-- Extras (Will be added soon hopefully)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
-![Elastic Stack](https://img.shields.io/badge/Elastic_Stack-005571?style=flat&logo=elasticsearch&logoColor=white)
--->
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReshiAdavan&layout=compact&theme=apprentice&langs_count=10&custom_title=Reshi%27s%20Languages&hide=C,Pascal&card_width=380)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="410" height="190" />

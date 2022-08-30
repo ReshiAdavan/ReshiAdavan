@@ -13,7 +13,7 @@
 
 - **_Languages_**: Python, C#, JavaScript/TypeScript, C/C++, SQL, HTML, CSS
 - **_Frameworks/Libraries_**: ASP.NET, Express, React, Node, Flask, SFML, OpenCV, TensorFlow, PyTorch, NumPy, Bootstrap
-- **_Tools/Technologies_**: Git, Azure, Docker, Kubernetes, Nginx, RabbitMQ, gRPC, Apache Kafka, Elastic Stack, SSMS, MongoDB, SQLite, Jira
+- **_Tools/Technologies_**: Git, Azure, Docker, Kubernetes, Nginx, RabbitMQ, gRPC, Apache Kafka, Elastic Stack, SSMS, MongoDB, SQLite
 
 <!-- Langs
 ![Python](https://img.shields.io/badge/Python-2F3134?style=flat&logo=python&logoColor=blue)

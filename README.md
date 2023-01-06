@@ -5,15 +5,16 @@
 <!-- **A Computer Engineering student at the University of Waterloo, with a particular interest in Full Stack Development, Machine Learning, amd Distrubuted Systems.** -->
 
 - Computer Engineering Student @UWaterloo (Class of 2025)
-- Previously @ Metro Supply Chain, Loblaw Companies Limited, Home Trust Company in SWE
+- Incoming @ Achievers. Previously @ Metro Supply Chain, Loblaw Companies Limited, Home Trust Company in SWE
 - Interests in Full Stack Development, Machine Learning, and Distributed Systems
-- Seeking Winter 2023 internships
+- Seeking Part-time/Full-time internships
 
 ## Tech Stack 🔭
 
-- **_Languages_**: Python, C#, JavaScript/TypeScript, C/C++, SQL, HTML, CSS
+- **_Languages_**: Python, Go, C#, JavaScript/TypeScript, C/C++, SQL, GraphQL, HTML, CSS
 - **_Frameworks/Libraries_**: ASP.NET, Express, React, Node, Flask, SFML, OpenCV, TensorFlow, PyTorch, NumPy, Bootstrap
-- **_Tools_**: Git, Azure, Docker, Kubernetes, Nginx, RabbitMQ, gRPC, Apache Kafka, Elastic Stack, SSMS, MongoDB, SQLite
+- **_Tools_**: Azure, GCP, AWS, Docker, Kubernetes, Nginx, RabbitMQ, gRPC, Apache Kafka, Elastic Stack, SSMS, MongoDB,
+  SQLite, Git
 
 <!-- Langs
 ![Python](https://img.shields.io/badge/Python-2F3134?style=flat&logo=python&logoColor=blue)

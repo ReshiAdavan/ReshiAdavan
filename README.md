@@ -5,7 +5,7 @@
 <!-- **A Computer Engineering student at the University of Waterloo, with a particular interest in Full Stack Development, Machine Learning, amd Distrubuted Systems.** -->
 
 - Computer Engineering Student @UWaterloo (Class of 2025)
-- Incoming @ Achievers. Previously @ Metro Supply Chain, Loblaw Companies Limited, Home Trust Company in SWE
+- Software Dev @ Achievers. Previously @ Metro Supply Chain, Loblaw Companies Limited, Home Trust Company in SWE
 - Interests in Full Stack Development, Machine Learning, and Distributed Systems
 - Seeking Part-time/Full-time internships
 

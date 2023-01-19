@@ -9,12 +9,11 @@
 - Interests in Full Stack Development, Machine Learning, and Distributed Systems
 - Seeking Part-time/Full-time internships
 
-## Tech Stack 🔭
+## Technical Skills 🔭
 
 - **_Languages_**: Python, Go, C#, JavaScript/TypeScript, C/C++, SQL, GraphQL, HTML, CSS
-- **_Frameworks/Libraries_**: ASP.NET, Express, React, Node, Flask, SFML, OpenCV, TensorFlow, PyTorch, NumPy, Bootstrap
-- **_Tools_**: Azure, GCP, AWS, Docker, Kubernetes, Nginx, RabbitMQ, gRPC, Apache Kafka, Elastic Stack, SSMS, MongoDB,
-  SQLite, Git
+- **_Frameworks/Libraries_**: ASP.NET, Express, React, Node, Flask, Jest, SFML, OpenCV, TensorFlow, PyTorch, NumPy, Bootstrap
+- **_Tools_**: Azure, GCP, AWS, Docker, Tilt, Helm, Kubernetes, Nginx, RabbitMQ, gRPC, Apollo, Drone, Apache Kafka, Elastic Stack, SSMS, MongoDB, PostgreSQL, Redis, SQLite, Git, Jira, Confluence, BitBucket
 
 <!-- Langs
 ![Python](https://img.shields.io/badge/Python-2F3134?style=flat&logo=python&logoColor=blue)

@@ -11,7 +11,7 @@
 
 ## Technical Skills 🔭
 
-- **_Languages_**: Python, Go, C#, JavaScript/TypeScript, C/C++, SQL, GraphQL, HTML, CSS
+- **_Languages_**: Python, Go, C#, JavaScript/TypeScript, C/C++, PHP, SQL, GraphQL, HTML, CSS
 - **_Frameworks/Libraries_**: ASP.NET, Express, React, Node, Flask, Jest, SFML, OpenCV, TensorFlow, PyTorch, NumPy, Bootstrap
 - **_Tools_**: Azure, GCP, AWS, Docker, Tilt, Helm, Kubernetes, Nginx, RabbitMQ, gRPC, Apollo, Drone, Apache Kafka, Elastic Stack, SSMS, MongoDB, PostgreSQL, Redis, SQLite, Git, Jira, Confluence, BitBucket
 

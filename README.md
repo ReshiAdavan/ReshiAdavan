@@ -53,6 +53,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReshiAdavan&layout=compact&theme=apprentice&langs_count=10&custom_title=Reshi%27s%20Languages&hide=C,Pascal,jupyter%20notebook,html,css&card_width=380)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="410" height="165" />
 
+<!--
+Height of Lang Card used to be 190. Just keeping note...
+-->
+
 ## Contact Me 📫
 
 <!--

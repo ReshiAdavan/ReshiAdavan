@@ -11,9 +11,9 @@
 
 ## Technical Skills 🔭
 
-- **_Languages_**: Python, Go, C#, JavaScript/TypeScript, C/C++, PHP, SQL, GraphQL, HTML, CSS
-- **_Frameworks/Libraries_**: ASP.NET, Express, React, Node, Flask, Jest, SFML, OpenCV, TensorFlow, PyTorch, NumPy, Bootstrap
-- **_Tools_**: Azure, GCP, AWS, Docker, Tilt, Helm, Kubernetes, Nginx, RabbitMQ, gRPC, Apollo, Drone, Jenkins, Apache Kafka, Elastic Stack, SSMS, MongoDB, PostgreSQL, Redis, SQLite, Git, Bash, Jira, Confluence, BitBucket
+- **_Languages_**: Python, C/C++, C#, JavaScript/TypeScript, Go, PHP, SQL, GraphQL, HTML, CSS
+- **_Frameworks/Libraries_**: ASP.NET, Express, React, Node, Flask, PyTorch, TensorFlow, Keras, OpenCV, NumPy
+- **_Tools_**: Azure, GCP, AWS, Docker, Kubernetes, Nginx, RabbitMQ, gRPC, Apache Kafka, Elastic, MongoDB, PostgreSQL, Redis, Git
 
 <!-- Langs
 ![Python](https://img.shields.io/badge/Python-2F3134?style=flat&logo=python&logoColor=blue)

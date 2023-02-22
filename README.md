@@ -12,7 +12,7 @@
 ## Technical Skills 🔭
 
 - **_Languages_**: Python, C/C++, C#, JavaScript/TypeScript, Go, PHP, SQL, GraphQL, HTML, CSS
-- **_Frameworks/Libraries_**: ASP.NET, Express, React, Node, Flask, PyTorch, TensorFlow, Keras, OpenCV, NumPy
+- **_Frameworks/Libraries_**: ASP.NET, Express, React, Node, Flask, PyTorch, TensorFlow, Keras, Pandas, NumPy, Sci-kit Learn, OpenCV, Matplotlib
 - **_Tools_**: Azure, GCP, AWS, Docker, Kubernetes, Nginx, RabbitMQ, gRPC, Apache Kafka, Elastic, MongoDB, PostgreSQL, Redis, Git
 
 <!-- Langs

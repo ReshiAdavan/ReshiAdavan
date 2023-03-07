@@ -9,7 +9,7 @@
 - Interests in Machine Learning and Distributed Systems
 - Seeking Part-time/Full-time internships -->
 
-A third-year Computer Engineering student at the University of Waterloo.
+A Computer Engineering student at the University of Waterloo.
 
 I am currently working at Achievers on the Business Transformation team. I previously interned at Metro Supply Chain, Loblaw Companies Limited, and Home Trust Company.
 

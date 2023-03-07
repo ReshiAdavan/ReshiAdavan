@@ -70,12 +70,22 @@ LinkedIn: [linkedin.com/in/reshiadavan](https://www.linkedin.com/in/reshiadavan/
 [![Linkedin](https://img.shields.io/badge/-Reshi_Adavan-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/reshiadavan/)
 -->
 
-[![Linkedin](https://img.shields.io/badge/Reshi_Adavan-blue?logo=Linkedin&style=flat&logoColor=white)](https://www.linkedin.com/in/reshiadavan/)
-[![Email](https://img.shields.io/badge/rtadavan@uwaterloo.ca-2B2E3A?&style=flat&logo=protonmail&logoColor=white)](mailto:rtadavan@uwaterloo.ca)
-[![Gmail](https://img.shields.io/badge/reshiadavan27@gmail.com-c14438?&logo=Gmail&style=flat&logoColor=white)](mailto:reshiadavan27@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reshiadavan/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reshiadavan27@gmail.com)
+[![Email](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:rtadavan@uwaterloo.ca)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ReshiAdavan/ReshiAdavan)
 
-<!--[![Website](https://img.shields.io/badge/reshiadavan.ca-F37623?style=flat)]()-->
-<!--[![Resume](https://img.shields.io/badge/My_Resume-217346?style=flat)]()-->
+<!-- [![Resume](https://img.shields.io/badge/Resume-%23E01F3D.svg?&style=for-the-badge&logoColor=white)](https://github.com/ReshiAdavan/Replica)
+[![Website](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://github.com/ReshiAdavan/ReshiAdavan)
+[![Views](https://komarev.com/ghpvc/?username=ReshiAdavan&color=orange&style=flat-square&label=Views:)](https://github.com/ReshiAdavan/LeetCode) -->
+
+---
+
+<p align="center">
+    <a href="https://github.com/ReshiAdavan/ReshiAdavan">
+    <img src="https://komarev.com/ghpvc/?username=ReshiAdavan&color=cc00cc&style=flat-square&label=Views:" height=28/>
+    </a>
+</p>
 
 <!--
 **ReshiAdavan/ReshiAdavan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

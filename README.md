@@ -2,18 +2,24 @@
 
 <!-- <img src="https://github.com/ReshiAdavan/ReshiAdavan/blob/master/imgs/ReshiBanner.PNG" width="1000" height="275"/> -->
 
-<!-- **A Computer Engineering student at the University of Waterloo, with a particular interest in Full Stack Development, Machine Learning, amd Distrubuted Systems.** -->
+<!-- **A Computer Engineering student at the University of Waterloo, with a particular interest in Machine Learning and Distributed Systems.** -->
 
-- Computer Engineering Student @ UWaterloo (Class of 2025)
+<!-- - Computer Engineering Student @ UWaterloo (Class of 2025)
 - Software Dev @ Achievers. Previously @ Metro Supply Chain, Loblaw Companies Limited, Home Trust Company in SWE
 - Interests in Machine Learning and Distributed Systems
-- Seeking Part-time/Full-time internships
+- Seeking Part-time/Full-time internships -->
 
-## Technical Skills 🔭
+A third-year Computer Engineering student at the University of Waterloo.
+
+I am currently working at Achievers on the Business Transformation team. I previously interned at Metro Supply Chain, Loblaw Companies Limited, and Home Trust Company.
+
+I am open to internship opportunities!
+
+<!-- ## Technical Skills 🔭
 
 - **_Languages_**: Python, C/C++, C#, JavaScript/TypeScript, Go, PHP, SQL, GraphQL, HTML, CSS
 - **_Frameworks/Libraries_**: ASP.NET, Express, React, Node, Flask, PyTorch, PySpark, TensorFlow, Keras, Pandas, NumPy, OpenCV
-- **_Tools_**: Azure, GCP, AWS, Docker, Kubernetes, Nginx, RabbitMQ, gRPC, Apache Kafka, Elastic, MongoDB, PostgreSQL, Redis, Git
+- **_Tools_**: Azure, GCP, AWS, Docker, Kubernetes, Nginx, RabbitMQ, gRPC, Apache Kafka, Elastic, MongoDB, PostgreSQL, Redis, Git -->
 
 <!-- Langs
 ![Python](https://img.shields.io/badge/Python-2F3134?style=flat&logo=python&logoColor=blue)

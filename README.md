@@ -13,7 +13,7 @@ A third-year Computer Engineering student at the University of Waterloo.
 
 I am currently working at Achievers on the Business Transformation team. I previously interned at Metro Supply Chain, Loblaw Companies Limited, and Home Trust Company.
 
-I am open to internship opportunities!
+I am also open to internship opportunities!
 
 <!-- ## Technical Skills 🔭
 

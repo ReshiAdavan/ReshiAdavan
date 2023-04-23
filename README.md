@@ -1,4 +1,4 @@
-# Hi, I'm Reshi 👋
+# Hello! 👋
 
 <!-- <img src="https://github.com/ReshiAdavan/ReshiAdavan/blob/master/imgs/ReshiBanner.PNG" width="1000" height="275"/> -->
 
@@ -9,11 +9,7 @@
 - Interests in Machine Learning and Distributed Systems
 - Seeking Part-time/Full-time internships -->
 
-A Computer Engineering student at the University of Waterloo.
-
-I am currently working at Achievers on the Business Transformation team. I previously interned at Metro Supply Chain, Loblaw Companies Limited, and Home Trust Company.
-
-I am also open to internship opportunities!
+My personal project portfolio, if you're interested.
 
 <!-- ## Technical Skills 🔭
 

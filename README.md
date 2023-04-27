@@ -52,12 +52,16 @@ My personal project portfolio, if you're interested.
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReshiAdavan&layout=compact&theme=apprentice&langs_count=8&custom_title=My%20Languages&hide=C,Pascal,jupyter%20notebook,html,css,dockerfile&card_width=380)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="410" height="165" />
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReshiAdavan&layout=compact&theme=apprentice&langs_count=8&custom_title=My%20Languages&hide=C,Pascal,jupyter%20notebook,html,css&card_width=380&card_height=300)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=ReshiAdavan&layout=compact&theme=apprentice&show_icons=true&count_private=true&card_width=380)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="410" height="165" /> -->
 
-<!--
-Height of Lang Card used to be 190. Just keeping note...
--->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReshiAdavan&layout=compact&theme=apprentice&langs_count=8&custom_title=My%20Langs&hide=Pascal,jupyter%20notebook,html,css&card_width=350" height=195/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ReshiAdavan&layout=compact&theme=apprentice&show_icons=true&rank_icon=github&count_private=true&include_all_commits=true&custom_title=My%20Stats&icon_color=a0db8e&text_color=&ring_color=a0db8e&card_width=350" height=195 />
+</a>
 
 ## Contact Me 📫
 

@@ -57,10 +57,10 @@ My personal project portfolio, if you're interested.
 <!-- <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="410" height="165" /> -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReshiAdavan&layout=compact&theme=apprentice&langs_count=8&custom_title=My%20Langs&hide=Pascal,jupyter%20notebook,html,css&card_width=350" height=195/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReshiAdavan&layout=compact&theme=github_dark_dimmed&title_color=f4f4f4&langs_count=8&custom_title=My%20Langs&hide=Pascal,jupyter%20notebook,html,css&card_width=350" height=195/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ReshiAdavan&layout=compact&theme=apprentice&show_icons=true&rank_icon=github&count_private=true&include_all_commits=true&custom_title=My%20Stats&icon_color=a0db8e&text_color=&ring_color=a0db8e&card_width=350" height=195 />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ReshiAdavan&layout=compact&theme=github_dark_dimmed&title_color=f4f4f4&ring_color=e04f43&show_icons=true&rank_icon=github&count_private=true&include_all_commits=true&custom_title=My%20Stats&card_width=350" height=195 />
 </a>
 
 ## Contact Me 📫

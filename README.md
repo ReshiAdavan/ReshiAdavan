@@ -31,7 +31,7 @@ My collection of projects I built over the past few years.
 <!-- <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="410" height="165" /> -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReshiAdavan&layout=compact&theme=github_dark_dimmed&title_color=f4f4f4&langs_count=8&custom_title=My%20Langs&hide=C,jupyter%20notebook,html,css&card_width=350" height=195/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReshiAdavan&layout=compact&theme=github_dark_dimmed&title_color=f4f4f4&langs_count=8&custom_title=My%20Langs&hide=C,jupyter%20notebook,html,css,pascal&card_width=350" height=195/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ReshiAdavan&layout=compact&theme=github_dark_dimmed&title_color=f4f4f4&ring_color=556ee1&icon_color=556ee1&show_icons=true&rank_icon=github&count_private=true&include_all_commits=true&custom_title=My%20Stats&card_width=350" height=195 />

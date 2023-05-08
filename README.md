@@ -63,6 +63,6 @@ LinkedIn: [linkedin.com/in/reshiadavan](https://www.linkedin.com/in/reshiadavan/
 
 <p align="center">
     <a href="https://github.com/ReshiAdavan/ReshiAdavan">
-    <img src="https://komarev.com/ghpvc/?username=ReshiAdavan&color=cc00cc&style=flat-square&label=Views:" height=28/>
+      <img src="https://komarev.com/ghpvc/?username=ReshiAdavan&color=cc00cc&style=flat-square&label=Views:" height=28/>
     </a>
 </p>

@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - Interests in Machine Learning and Distributed Systems
 - Seeking Part-time/Full-time internships -->
 
-My collection of projects I built over the past few years.
+My agglomeration of tools I built over the past few years.
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReshiAdavan&layout=compact&theme=apprentice&langs_count=8&custom_title=My%20Languages&hide=C,Pascal,jupyter%20notebook,html,css&card_width=380&card_height=300)](https://github.com/anuraghazra/github-readme-stats)
 [![Stats](https://github-readme-stats.vercel.app/api?username=ReshiAdavan&layout=compact&theme=apprentice&show_icons=true&count_private=true&card_width=380)](https://github.com/anuraghazra/github-readme-stats) -->

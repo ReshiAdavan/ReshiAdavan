@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - Interests in Machine Learning and Distributed Systems
 - Seeking Part-time/Full-time internships -->
 
-My agglomeration of tools I built over the past few years.
+My collection of tools I built over the past few years.
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReshiAdavan&layout=compact&theme=apprentice&langs_count=8&custom_title=My%20Languages&hide=C,Pascal,jupyter%20notebook,html,css&card_width=380&card_height=300)](https://github.com/anuraghazra/github-readme-stats)
 [![Stats](https://github-readme-stats.vercel.app/api?username=ReshiAdavan&layout=compact&theme=apprentice&show_icons=true&count_private=true&card_width=380)](https://github.com/anuraghazra/github-readme-stats) -->
@@ -59,10 +59,10 @@ LinkedIn: [linkedin.com/in/reshiadavan](https://www.linkedin.com/in/reshiadavan/
 [![Website](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://github.com/ReshiAdavan/ReshiAdavan)
 [![Views](https://komarev.com/ghpvc/?username=ReshiAdavan&color=orange&style=flat-square&label=Views:)](https://github.com/ReshiAdavan/LeetCode) -->
 
----
+<!-- ---
 
 <p align="center">
     <a href="https://github.com/ReshiAdavan/ReshiAdavan">
       <img src="https://komarev.com/ghpvc/?username=ReshiAdavan&color=cc00cc&style=flat-square&label=Views:" height=28/>
     </a>
-</p>
+</p> -->

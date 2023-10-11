@@ -33,6 +33,10 @@ My collection of tools I built over the past few years.
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReshiAdavan&layout=compact&theme=github_dark_dimmed&title_color=f4f4f4&langs_count=10&custom_title=My%20Langs&hide=jupyter%20notebook,html,css,pascal&card_width=350" height=195/>
 </a>
+
+<!-- Lang Card Link assuming we exclude CryptGO (its like 5000+ lines of golang that skews the distribution)
+https://github-readme-stats.vercel.app/api/top-langs/?username=ReshiAdavan&layout=compact&theme=github_dark_dimmed&title_color=f4f4f4&langs_count=10&custom_title=My%20Langs&hide=jupyter%20notebook,html,css,pascal&exclude_repo=CryptGO&card_width=350 -->
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ReshiAdavan&layout=compact&theme=github_dark_dimmed&title_color=f4f4f4&ring_color=c2ff95&icon_color=c2ff95&show_icons=true&rank_icon=github&count_private=true&include_all_commits=true&custom_title=My%20Stats&card_width=350" height=195 />
 </a>

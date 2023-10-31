@@ -17,29 +17,29 @@ Here are some ideas to get you started:
 
 <!-- <img src="https://github.com/ReshiAdavan/ReshiAdavan/blob/master/imgs/ReshiBanner.PNG" width="1000" height="275"/> -->
 
-<!-- **A Computer Engineering student at the University of Waterloo, with a particular interest in Machine Learning and Distributed Systems.** -->
-
 <!-- - Computer Engineering Student @ UWaterloo (Class of 2025)
 - Software Dev @ Achievers. Previously @ Metro Supply Chain, Loblaw Companies Limited, Home Trust Company in SWE
 - Interests in Machine Learning and Distributed Systems
 - Seeking Part-time/Full-time internships -->
 
-My collection of tools I built over the past few years.
+I am a Computer Engineering student at the University of Waterloo, with a particular interest in Machine Learning and Distributed Systems.
+
+I see you stumbled upon my collection of tools I built over the past few years. Have a look around while you're here!
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReshiAdavan&layout=compact&theme=apprentice&langs_count=8&custom_title=My%20Languages&hide=C,Pascal,jupyter%20notebook,html,css&card_width=380&card_height=300)](https://github.com/anuraghazra/github-readme-stats)
 [![Stats](https://github-readme-stats.vercel.app/api?username=ReshiAdavan&layout=compact&theme=apprentice&show_icons=true&count_private=true&card_width=380)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="410" height="165" /> -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReshiAdavan&layout=compact&theme=github_dark_dimmed&title_color=f4f4f4&langs_count=10&custom_title=My%20Langs&hide=jupyter%20notebook,html,css,pascal&card_width=350" height=195/>
-</a>
+</a> -->
 
 <!-- Lang Card Link assuming we exclude CryptGO (its like 5000+ lines of golang that skews the distribution)
 https://github-readme-stats.vercel.app/api/top-langs/?username=ReshiAdavan&layout=compact&theme=github_dark_dimmed&title_color=f4f4f4&langs_count=10&custom_title=My%20Langs&hide=jupyter%20notebook,html,css,pascal&exclude_repo=CryptGO&card_width=350 -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ReshiAdavan&layout=compact&theme=github_dark_dimmed&title_color=f4f4f4&ring_color=c2ff95&icon_color=c2ff95&show_icons=true&rank_icon=github&count_private=true&include_all_commits=true&custom_title=My%20Stats&card_width=350" height=195 />
-</a>
+</a> -->
 
 ## Contact Me 📫
 

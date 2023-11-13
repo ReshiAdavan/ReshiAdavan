@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - Interests in Machine Learning and Distributed Systems
 - Seeking Part-time/Full-time internships -->
 
-I am a Computer Engineering student at the University of Waterloo, with a particular interest in machine learning and distributed systems.
+I'm Reshi, a Computer Engineering Student at the University of Waterloo, with a particular interest in machine learning and distributed systems.
 
 I see you stumbled upon my collection of tools I built over the past few years. Have a look around while you're here!
 

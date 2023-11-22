@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <!-- I'm Reshi, a Computer Engineering Student at the University of Waterloo, with a particular interest in machine learning and distributed systems. -->
 
-I'm Reshi, a curious software engineer with a passion for solving problems and exploring the intricate intersections of software and technology.
+I'm Reshi, a curious Software Engineer with a passion for solving problems and exploring the intricate intersections of software and technology.
 
 - 📚 I'm studying **Computer Engineering** at the **University of Waterloo** (3rd year or 3B)
 

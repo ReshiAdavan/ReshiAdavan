@@ -29,7 +29,7 @@ I'm Reshi, a curious Software Engineer with a passion for solving problems and e
 
 - 🔭 Worked for **UW Orbital** and **Waterloo Formula Electric**
 
-- 💻 Currently a **Contractor** in the Machine Learning and Backend Engineering Space
+- 💻 Currently a **Contractor** in the Machine Learning and Backend Engineering space
 
 - 🌱 Exploring **Machine Learning** and **Distributed Systems**
 

@@ -35,7 +35,7 @@ I'm Reshi, a curious Software Engineer with a passion for solving problems and e
 
 - 🎯 Interested in Soccer, Basketball, Volleyball, Cars, F1, Music, Reading, Travelling, Hiking, DIY
 
-- 💼 Seeking Part-time/Full-time **Internships** and **Contract/Freelance** work
+- 💼 Seeking **Part-time/Full-time Internships** and **Contract/Freelance** work
 
 <!-- I see you stumbled upon my collection of tools I built over the past few years. Have a look around while you're here! -->
 

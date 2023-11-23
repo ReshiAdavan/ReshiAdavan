@@ -54,7 +54,7 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=ReshiAdavan&layou
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ReshiAdavan&layout=compact&theme=github_dark_dimmed&title_color=f4f4f4&ring_color=c2ff95&icon_color=c2ff95&show_icons=true&rank_icon=github&count_private=true&include_all_commits=true&custom_title=My%20Stats&card_width=350" height=195 />
 </a> -->
 
-## Contact Me 📫
+# Contact Me 📫
 
 <!--
 [![Email](https://img.shields.io/badge/rtadavan@uwaterloo.ca-0078D4?logo=microsoft-outlook&logoColor=white)](mailto:rtadavan@uwaterloo.ca)

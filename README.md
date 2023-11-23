@@ -27,7 +27,7 @@ I'm Reshi, a curious Software Engineer with a passion for solving problems and e
 
 - 🧪 Researched at UW on **GPUs** and **Autonomous Vehicles**
 
-- 🔭 Worked for **UW Orbital** and **Waterloo Formula Electric**
+- 🔭 Previously a Core Member of **UW Orbital** and **Waterloo Formula Electric**
 
 - 💻 Currently a **Contractor** in the Machine Learning and Backend Engineering space
 

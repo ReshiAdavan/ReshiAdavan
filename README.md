@@ -33,7 +33,7 @@ I'm Reshi, a curious Software Engineer with a passion for solving problems and e
 
 - 🌱 Exploring **Machine Learning** and **Distributed Systems**
 
-- 🎯 Interested in Soccer, Basketball, Volleyball, Cars, F1, Music, Reading, Travelling, Hiking, DIY
+- 🎯 Interested in Soccer, Basketball, Volleyball, Boxing, Cars, F1, Music, Reading, Travelling, Hiking, DIY
 
 - 💼 Seeking **Part-time/Full-time Internships** and **Contract/Freelance** work
 

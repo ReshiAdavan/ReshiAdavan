@@ -67,8 +67,10 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=ReshiAdavan&layou
 
 <!-- [![Resume](https://img.shields.io/badge/Resume-%23E01F3D.svg?&style=for-the-badge&logoColor=white)](https://github.com/ReshiAdavan/Replica) -->
 
-<p align="center">
+<!-- --- -->
+
+<!-- <p align="center">
     <a href="https://github.com/ReshiAdavan/ReshiAdavan">
       <img src="https://komarev.com/ghpvc/?username=ReshiAdavan&color=orange&style=flat-square&label=Views:" height=28/>
     </a>
--->
+</p> -->

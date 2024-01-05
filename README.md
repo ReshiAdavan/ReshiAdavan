@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Welcome! 👋
+# Welcome! 👋
 
 <!-- <img src="https://github.com/ReshiAdavan/ReshiAdavan/blob/master/imgs/ReshiBanner.PNG" width="1000" height="275"/> -->
 
@@ -33,7 +33,7 @@ I am a curious Software Engineer with a passion for exploring the intersections 
 
 - 🎯 Avid competitve sports soccer/basketball player and boxer. Interested in cars, reading self-development books, and hiking.
 
-- 💼 Seeking Part-time/Full-time **Internships** and **Contract/Freelance** work
+- 💼 Seeking **Part-time/Full-time Internships** and **Contract/Freelance** work
 
 <!-- I see you stumbled upon my collection of tools I built over the past few years. Have a look around while you're here! -->
 
@@ -52,7 +52,7 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=ReshiAdavan&layou
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ReshiAdavan&layout=compact&theme=github_dark_dimmed&title_color=f4f4f4&ring_color=c2ff95&icon_color=c2ff95&show_icons=true&rank_icon=github&count_private=true&include_all_commits=true&custom_title=My%20Stats&card_width=350" height=195 />
 </a> -->
 
-## Contact Me 📫
+# Contact Me 📫
 
 <!--
 [![Email](https://img.shields.io/badge/rtadavan@uwaterloo.ca-0078D4?logo=microsoft-outlook&logoColor=white)](mailto:rtadavan@uwaterloo.ca)
@@ -67,10 +67,8 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=ReshiAdavan&layou
 
 <!-- [![Resume](https://img.shields.io/badge/Resume-%23E01F3D.svg?&style=for-the-badge&logoColor=white)](https://github.com/ReshiAdavan/Replica) -->
 
-<!-- ---
-
 <p align="center">
     <a href="https://github.com/ReshiAdavan/ReshiAdavan">
       <img src="https://komarev.com/ghpvc/?username=ReshiAdavan&color=orange&style=flat-square&label=Views:" height=28/>
     </a>
-</p> -->
+-->

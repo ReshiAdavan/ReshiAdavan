@@ -19,21 +19,19 @@ Here are some ideas to get you started:
 
 <!-- I'm Reshi, a Computer Engineering Student at the University of Waterloo, with a particular interest in machine learning and distributed systems. -->
 
-I'm Reshi, a curious Software Engineer with a passion for solving problems and exploring the intricate intersections of software and technology.
+I am a curious Software Engineer with a passion for exploring the intersections between software and technology.
 
-- 📚 I'm studying **Computer Engineering** at the **University of Waterloo** (3rd year or 3B)
+- 📚 Studying **Computer Engineering** at the **University of Waterloo**
 
 - 🏛️ Incoming @ **Huawei**. Previously @ **Achievers**, **Metro**, **Loblaw**, **Home Trust**
 
 - 🧪 Researched at UW on **GPUs** and **Autonomous Vehicles**
 
-- 🔭 Previously a Core Member of **UW Orbital** and **Waterloo Formula Electric**
+- 🔭 Worked for **UW Orbital** and **Waterloo Formula Electric** design teams
 
-- 💻 Currently a **Contractor** in the Machine Learning and Backend Engineering space
+- 🌱 Exploring in machine learning and distributed systems. Curious about compilers, graphics, and mobile dev.
 
-- 🌱 Exploring **Machine Learning** and **Distributed Systems**
-
-- 🎯 Interested in Soccer, Basketball, Volleyball, Boxing, Cars, F1, Music, Reading, Travelling, Hiking, DIY
+- 🎯 Avid competitve sports soccer/basketball player and boxer. Interested in cars, reading self-development books, and hiking.
 
 - 💼 Seeking **Part-time/Full-time Internships** and **Contract/Freelance** work
 
@@ -68,12 +66,9 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=ReshiAdavan&layou
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ReshiAdavan/ReshiAdavan)
 
 <!-- [![Resume](https://img.shields.io/badge/Resume-%23E01F3D.svg?&style=for-the-badge&logoColor=white)](https://github.com/ReshiAdavan/Replica) -->
-<!--
----
 
 <p align="center">
     <a href="https://github.com/ReshiAdavan/ReshiAdavan">
       <img src="https://komarev.com/ghpvc/?username=ReshiAdavan&color=orange&style=flat-square&label=Views:" height=28/>
     </a>
-</p>
 -->

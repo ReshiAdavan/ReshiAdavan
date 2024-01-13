@@ -23,13 +23,13 @@ I am a curious Software Engineer with a passion for exploring the intersections 
 
 - 📚 Studying **Computer Engineering** at the **University of Waterloo**
 
-- 🏛️ Incoming @ **Huawei**. Previously @ **Achievers**, **Metro**, **Loblaw**, **Home Trust**
+- 🏛️ Currently @ **Huawei**. Previously @ **Achievers**, **Metro**, **Loblaw**, **Home Trust**
 
 - 🧪 Researched at UW on **GPUs** and **Autonomous Vehicles**
 
 - 🔭 Worked for **UW Orbital** and **Waterloo Formula Electric** design teams
 
-- 🌱 Exploring in machine learning and distributed systems. Curious about compilers, graphics, and mobile dev.
+- 🌱 Exploring machine learning and distributed systems. Curious about compilers, graphics, and mobile dev.
 
 - 🎯 Avid competitve sports soccer/basketball player and boxer. Interested in cars, reading self-development books, and hiking.
 

@@ -29,7 +29,7 @@ I am a curious Software Engineer with a passion for exploring the intersections 
 
 - 🔭 Worked for **UW Orbital** and **Waterloo Formula Electric** design teams
 
-- 🌱 Exploring machine learning and distributed systems. Curious about compilers, graphics, and mobile dev.
+- 🌱 Exploring machine learning and distributed systems. Curious about computer graphics and mobile development.
 
 - 🎯 Avid competitive sports soccer/basketball player and boxer. Interested in cars, reading self-development books, and hiking.
 

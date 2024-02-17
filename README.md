@@ -19,21 +19,21 @@ Here are some ideas to get you started:
 
 <!-- I'm Reshi, a Computer Engineering Student at the University of Waterloo, with a particular interest in machine learning and distributed systems. -->
 
-I am a curious Software Engineer with a passion for exploring the intersections between software and technology.
+I am a curious Software Engineer with a passion for exploring the intersections between different realms of software.
 
 - 📚 Studying **Computer Engineering** at the **University of Waterloo**
 
 - 🏛️ Currently @ **Huawei**. Previously @ **Achievers**, **Metro**, **Loblaw**, **Home Trust**
 
-- 🧪 Researched at UW on **GPUs** and **Autonomous Vehicles**
+- 🧪 Researched **GPUs** and **Autonomous Vehicles** at UW
 
 - 🔭 Worked for **UW Orbital** and **Waterloo Formula Electric** design teams
 
-- 🌱 Exploring machine learning and distributed systems. Curious about computer graphics and mobile development.
+- 🌱 Exploring machine learning (NLP & CV) and distributed systems. Curious about graphics, GPUs, and compilers.
 
 - 🎯 Avid competitive sports soccer/basketball player and boxer. Interested in cars, reading self-development books, and hiking.
 
-- 💼 Seeking **Part-time/Full-time Internships** and **Contract/Freelance** work
+- 💼 Seeking **Part-time/Full-time internships** and **Contract/Freelance jobs**
 
 <!-- I see you stumbled upon my collection of tools I built over the past few years. Have a look around while you're here! -->
 

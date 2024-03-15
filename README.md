@@ -27,7 +27,7 @@ I am a curious Software Engineer with a passion for exploring the intersections 
 
 - 🧪 Researched **GPUs** and **Autonomous Vehicles** at UW
 
-- 🔭 Worked for **UW Orbital** and **Waterloo Formula Electric** design teams
+- 🔭 Core member of **Wat Street**. Previously @ **UW Orbital** and **Waterloo Formula Electric** design teams
 
 - 🌱 Exploring machine learning (NLP & CV) and distributed systems. Curious about graphics, GPUs, and compilers.
 

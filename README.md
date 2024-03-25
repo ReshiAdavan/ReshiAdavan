@@ -25,15 +25,15 @@ I am a curious Software Engineer with a passion for exploring the intersections 
 
 - 🏛️ Currently @ **Huawei**. Previously @ **Achievers**, **Metro**, **Loblaw**, **Home Trust**
 
-- 🧪 Researched **GPUs** and **Autonomous Vehicles** at UW
+- 🧪 Researching **Autonomous System Decision Making**. Researched **GPUs** and **Autonomous Vehicle Motion Planning** at UW
 
 - 🔭 Core member of **Wat Street**. Previously @ **UW Orbital** and **Waterloo Formula Electric** design teams
 
-- 🌱 Exploring machine learning (NLP & CV) and distributed systems. Curious about graphics, GPUs, and compilers.
+- 🌱 Exploring machine learning (CV & NLP) and distributed systems. Curious about graphics, GPUs, and compilers.
 
 - 🎯 Avid competitive sports soccer/basketball player and boxer. Interested in cars, reading self-development books, and hiking.
 
-- 💼 Seeking **Part-time/Full-time internships** and **Contract/Freelance jobs**
+- 💼 Seeking **Internships**, **Contract/Freelance work**, and **Research Positions**
 
 <!-- I see you stumbled upon my collection of tools I built over the past few years. Have a look around while you're here! -->
 

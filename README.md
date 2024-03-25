@@ -33,7 +33,7 @@ I am a curious Software Engineer with a passion for exploring the intersections 
 
 - 🎯 Avid competitive sports soccer/basketball player and boxer. Interested in cars, reading self-development books, and hiking.
 
-- 💼 Seeking **Internships**, **Contract/Freelance work**, and **Research Positions**
+- 💼 Seeking **Internships**, **Contract/Freelance** work, and **Research Positions**
 
 <!-- I see you stumbled upon my collection of tools I built over the past few years. Have a look around while you're here! -->
 

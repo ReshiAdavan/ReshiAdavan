@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 <!-- <img src="https://github.com/ReshiAdavan/ReshiAdavan/blob/master/imgs/ReshiBanner.PNG" width="1000" height="275"/> -->
 
-<!-- I'm Reshi, a Computer Engineering Student at the University of Waterloo, with a particular interest in machine learning and distributed systems. -->
-
 I am a curious Software Engineer with a passion for exploring the intersections between different realms of software.
 
 - 📚 Studying **Computer Engineering** at the **University of Waterloo**
@@ -35,42 +33,16 @@ I am a curious Software Engineer with a passion for exploring the intersections 
 
 - 💼 Seeking **Internships**, **Contract/Freelance** work, and **Research Positions**
 
-<!-- I see you stumbled upon my collection of tools I built over the past few years. Have a look around while you're here! -->
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReshiAdavan&layout=compact&theme=apprentice&langs_count=8&custom_title=My%20Languages&hide=C,Pascal,jupyter%20notebook,html,css&card_width=380&card_height=300)](https://github.com/anuraghazra/github-readme-stats)
-[![Stats](https://github-readme-stats.vercel.app/api?username=ReshiAdavan&layout=compact&theme=apprentice&show_icons=true&count_private=true&card_width=380)](https://github.com/anuraghazra/github-readme-stats) -->
-<!-- <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="410" height="165" /> -->
-
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReshiAdavan&layout=compact&theme=github_dark_dimmed&title_color=f4f4f4&langs_count=10&custom_title=My%20Langs&hide=jupyter%20notebook,html,css,pascal&card_width=350" height=195/>
-</a> -->
-
-<!-- Lang Card Link assuming we exclude CryptGO (its like 5000+ lines of golang that skews the distribution)
-https://github-readme-stats.vercel.app/api/top-langs/?username=ReshiAdavan&layout=compact&theme=github_dark_dimmed&title_color=f4f4f4&langs_count=10&custom_title=My%20Langs&hide=jupyter%20notebook,html,css,pascal&exclude_repo=CryptGO&card_width=350 -->
-
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ReshiAdavan&layout=compact&theme=github_dark_dimmed&title_color=f4f4f4&ring_color=c2ff95&icon_color=c2ff95&show_icons=true&rank_icon=github&count_private=true&include_all_commits=true&custom_title=My%20Stats&card_width=350" height=195 />
-</a> -->
+<!-- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReshiAdavan&layout=compact&theme=apprentice&langs_count=8&custom_title=My%20Languages&hide=C,Pascal,jupyter%20notebook,html,css&card_width=380&card_height=300)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=ReshiAdavan&layout=compact&theme=apprentice&show_icons=true&count_private=true&card_width=380)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="410" height="165" /> 
+-->
 
 # Contact Me 📫
 
-<!--
-[![Email](https://img.shields.io/badge/rtadavan@uwaterloo.ca-0078D4?logo=microsoft-outlook&logoColor=white)](mailto:rtadavan@uwaterloo.ca)
-[![Gmail](https://img.shields.io/badge/reshiadavan27@gmail.com-c14438?&logo=Gmail&logoColor=white)](mailto:reshiadavan27@gmail.com)
-[![Linkedin](https://img.shields.io/badge/-Reshi_Adavan-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/reshiadavan/)
--->
-
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reshiadavan/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reshiadavan27@gmail.com)
-[![Email](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:rtadavan@uwaterloo.ca)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ReshiAdavan/ReshiAdavan)
-
-<!-- [![Resume](https://img.shields.io/badge/Resume-%23E01F3D.svg?&style=for-the-badge&logoColor=white)](https://github.com/ReshiAdavan/Replica) -->
-
-<!-- --- -->
-
-<!-- <p align="center">
-    <a href="https://github.com/ReshiAdavan/ReshiAdavan">
-      <img src="https://komarev.com/ghpvc/?username=ReshiAdavan&color=orange&style=flat-square&label=Views:" height=28/>
-    </a>
-</p> -->
+[![Website](https://img.shields.io/badge/Website-7B42BC?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](reshiadavan.me)
+<!-- [![Resume](https://img.shields.io/badge/Resume-%23E01F3D.svg?&style=for-the-badge&logoColor=white)](https://...) -->

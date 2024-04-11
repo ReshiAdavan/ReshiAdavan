@@ -29,7 +29,7 @@ I am a curious Software Engineer with a passion for exploring the intersections 
 
 - 🌱 Exploring machine learning (CV & NLP) and distributed systems. Curious about graphics, GPUs, and compilers
 
-- 🎯 Avid competitive sports soccer/basketball player and boxer. Interested in cars, reading self-development books, and hiking
+- 🎯 Avid competitive soccer/basketball/volleyball player and boxer. Interested in cars, reading self-development books, and hiking
 
 - 💼 Seeking **Internships**, **Contract/Freelance** work, and **Research Positions**
 

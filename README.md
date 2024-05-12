@@ -43,7 +43,7 @@ I am a curious student with a passion for exploring the intersections between di
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reshiadavan/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reshiadavan27@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ReshiAdavan/ReshiAdavan)
 [![Website](https://img.shields.io/badge/Website-7B42BC?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://reshiadavan.me)
 
+<!-- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ReshiAdavan/ReshiAdavan) -->
 <!-- [![Resume](https://img.shields.io/badge/Resume-%23E01F3D.svg?&style=for-the-badge&logoColor=white)](https://...) -->

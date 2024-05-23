@@ -23,7 +23,7 @@ I am a curious student with a passion for exploring the intersections between di
 
 - 🏛️ Previously @ **Huawei**, **Achievers**, **Metro**, **Loblaw**, **Home Trust**
 
-- 🧪 Researching **Autonomous System Decision Making**. Researched **GPUs** and **Autonomous Vehicle Motion Planning** at UW
+- 🧪 Researching **Thought Reconstruction**. Researched **GPUs** and **Autonomous Vehicle Motion Planning** at UW
 
 - 🔭 Core member of **Wat Street**. Previously @ **UW Orbital** and **Waterloo Formula Electric** design teams
 

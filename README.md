@@ -19,19 +19,21 @@ Here are some ideas to get you started:
 
 I am a curious student with a passion for exploring the intersections between different realms of software.
 
-- 📚 Studying **Computer Engineering** at the **University of Waterloo**
+- 📚 Studying Computer Engineering at the University of Waterloo
 
-- 🏛️ Previously @ **Huawei**, **Achievers**, **Metro**, **Loblaw**, **Home Trust**
+- 🏛️ Previously @ Huawei, Achievers, Metro, Loblaw, Home Trust
 
-- 🧪 Researching **Thought Reconstruction**. Researched **GPUs** and **Autonomous Vehicle Motion Planning** at UW
+- 🧪 Researching "Thought Reconstruction". Researched GPUs and Autonomous Vehicle Motion Planning at UW
 
-- 🔭 Core member of **Wat Street**. Previously @ **UW Orbital** and **Waterloo Formula Electric** design teams
+- 🔭 Core member of Wat Street. Previously @ UWOrbital and UWFE design teams
 
+<!--
 - 🌱 Exploring machine learning (CV & NLP) and distributed systems. Curious about graphics, GPUs, and compilers
 
 - 🎯 Avid competitive soccer/basketball/volleyball player. Interested in cars, reading books, fitness, and hiking
 
 - 💼 Seeking **Internships**, **Contract Work**, and **Research Positions**
+-->
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReshiAdavan&layout=compact&theme=apprentice&langs_count=8&custom_title=My%20Languages&hide=C,Pascal,jupyter%20notebook,html,css&card_width=380&card_height=300)](https://github.com/anuraghazra/github-readme-stats)

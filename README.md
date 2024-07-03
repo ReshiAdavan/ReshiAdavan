@@ -23,7 +23,7 @@ I am a curious student with a passion for exploring the intersections between di
 
 - 🏛️ Previously @ Huawei, Achievers, Metro, Loblaw, Home Trust
 
-- 🧪 Researching EEG to Image Construction. Researched GPUs and Autonomous Vehicle Motion Planning at UW
+- 🧪 Researching EEG to Image Construction. Researched GPUs and Autonomous Vehicles at UW
 
 - 🔭 Core member of Wat Street. Previously @ UWOrbital and UWFE design teams
 

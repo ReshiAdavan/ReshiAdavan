@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 <!-- <img src="https://github.com/ReshiAdavan/ReshiAdavan/blob/master/imgs/ReshiBanner.PNG" width="1000" height="275"/> -->
 
-I am a curious student with a passion for exploring the intersections between different realms of software.
+I am a curious student with a passion for exploring different realms of software.
 
 - 📚 Studying Computer Engineering at the University of Waterloo
 
 - 🏛️ Previously @ Huawei, Achievers, Metro, Loblaw, Home Trust
 
-- 🧪 Researching EEG to Image Construction. Researched GPUs and Autonomous Vehicles at UW
+- 🧪 Researching brain-image reconstruction. Researched GPUs and autonomous vehicles at UW
 
 - 🔭 Core member of Wat Street. Previously @ UWOrbital and UWFE design teams
 

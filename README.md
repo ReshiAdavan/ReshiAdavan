@@ -21,18 +21,14 @@ I am a curious student with a passion for exploring different realms of software
 
 - 📚 Studying Computer Engineering at the University of Waterloo
 
-- 🏛️ Previously @ Huawei, Achievers, Metro, Loblaw, Home Trust
+- 🧪 Working on brain-image reconstruction. Previously @ Huawei
 
-- 🧪 Researching brain-image reconstruction. Researched GPUs and autonomous vehicles at UW
-
-- 🔭 Core member of Wat Street. Previously @ UWOrbital and UWFE design teams
+- 🔭 Quant @ Wat Street. Previously @ UWOrbital and UWFE
 
 <!--
-- 🌱 Exploring machine learning (CV & NLP) and distributed systems. Curious about graphics, GPUs, and compilers
+- 🌱 Exploring quant, deep learning and distributed systems
 
-- 🎯 Avid competitive soccer/basketball/volleyball player. Interested in cars, reading books, fitness, and hiking
-
-- 💼 Seeking **Internships**, **Contract Work**, and **Research Positions**
+- 🎯 I compete in a wide range of sports. I am interested in cars, music, fitness, and travelling
 -->
 
 <!--

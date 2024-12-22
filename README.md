@@ -21,9 +21,9 @@ I am a curious student with a passion for exploring different realms of software
 
 - 📚 Studying Computer Engineering at the University of Waterloo
 
-- 🧪 Working on brain-image reconstruction. Previously @ Huawei
+- 🔭 Quant @ Wat Street. Previously @ Huawei 
 
-- 🔭 Quant @ Wat Street. Previously @ UWOrbital and UWFE
+- 📫 Seeking New Grad Opportunities
 
 <!--
 - 🌱 Exploring quant, deep learning and distributed systems

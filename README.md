@@ -23,7 +23,7 @@ I am a curious student with a passion for exploring different realms of software
 
 - 🔭 Quant @ Wat Street. Previously @ Huawei 
 
-- 📫 Seeking New Grad Opportunities
+- ⚡ Seeking New Grad Opportunities
 
 <!--
 - 🌱 Exploring quant, deep learning and distributed systems

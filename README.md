@@ -21,9 +21,9 @@ I am a curious student with a passion for exploring different realms of software
 
 - 📚 Studying Computer Engineering at the University of Waterloo
 
-- 🔭 Quant @ Wat Street. Previously @ Huawei 
+- 🔭 Incoming @ Amazon. Previously @ Huawei
 
-- ⚡ Seeking New Grad Opportunities
+- ⚡ Quant @ Wat Street
 
 <!--
 - 🌱 Exploring quant, deep learning and distributed systems

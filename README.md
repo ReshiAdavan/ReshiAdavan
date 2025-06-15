@@ -17,12 +17,10 @@ Here are some ideas to get you started:
 
 <!-- <img src="https://github.com/ReshiAdavan/ReshiAdavan/blob/master/imgs/ReshiBanner.PNG" width="1000" height="275"/> -->
 
-I am a curious student with a passion for exploring different realms of software.
+I am a curious engineer with a passion for exploring different realms of software.
 
-- 📚 Studying Computer Engineering at the University of Waterloo
-
-- 🔭 Incoming @ Amazon. Previously @ Huawei
-
+- 🔭 SDE @ Amazon. Previously @ Huawei
+- 📚 Computer Engineering at the University of Waterloo
 - ⚡ Quant @ Wat Street
 
 <!--

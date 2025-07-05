@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 I am a curious engineer with a passion for exploring different realms of software.
 
 - 🔭 SDE @ Amazon
-- Previously @ Huawei
+- ⚡ Previously @ Huawei
 - 📚 Recent Computer Engineering Graduate at the University of Waterloo
 
 <!--

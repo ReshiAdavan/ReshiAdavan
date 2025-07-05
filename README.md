@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 I am a curious engineer with a passion for exploring different realms of software.
 
-- 🔭 SDE @ Amazon. Previously @ Huawei
-- 📚 Computer Engineering at the University of Waterloo
-- ⚡ Quant @ Wat Street
+- 🔭 SDE @ Amazon
+- Previously @ Huawei
+- 📚 Recent Computer Engineering Graduate at the University of Waterloo
 
 <!--
 - 🌱 Exploring quant, deep learning and distributed systems

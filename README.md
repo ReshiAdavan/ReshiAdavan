@@ -21,11 +21,10 @@ I am a curious engineer with a passion for exploring different realms of softwar
 
 - 🔭 SDE @ Amazon
 - ⚡ Previously @ Huawei
-- 📚 Recent Computer Engineering Graduate at the University of Waterloo
 
 <!--
+- 📚 Recent Computer Engineering Graduate at the University of Waterloo
 - 🌱 Exploring quant, deep learning and distributed systems
-
 - 🎯 I compete in a wide range of sports. I am interested in cars, music, fitness, and travelling
 -->
 
